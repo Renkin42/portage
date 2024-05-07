@@ -1,0 +1,5 @@
+# package.accept_keywords# required by gui-apps/hyprpaper (argument)
+=gui-apps/hyprpaper-0.6.0-r1 ~amd64
+# required by gui-apps/hyprpaper-0.6.0-r1::guru
+# required by gui-apps/hyprpaper (argument)
+=dev-libs/hyprlang-0.5.0 ~amd64

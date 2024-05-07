@@ -1,0 +1,44 @@
+# required by gui-apps/gtkgreet (argument)
+=gui-apps/gtkgreet-0.8 ~amd64
+# required by app-misc/nwg-look-0.2.5::guru
+# required by nwg-look (argument)
+=x11-apps/xcur2png-0.7.1-r1 ~amd64
+# required by nwg-look (argument)
+=app-misc/nwg-look-0.2.5 ~amd64
+# required by gui-apps/wev (argument)
+=gui-apps/wev-1.0.0 ~amd64
+# required by tailscale (argument)
+=net-vpn/tailscale-1.60.0 ~amd64
+# required by media-sound/mopidy-3.4.2::guru[-test]
+# required by mopidy (argument)
+=dev-python/pykka-4.0.2 ~amd64
+# required by mopidy (argument)
+=media-sound/mopidy-3.4.2 ~amd64
+# required by media-sound/spotifyd (argument)
+=media-sound/spotifyd-0.3.5 ~amd64
+# required by gtklock (argument)
+=gui-apps/gtklock-2.1.0 ~amd64
+# required by candy-icon-theme (argument)
+=x11-themes/candy-icon-theme-0_pre20220809 ~amd64
+# required by pcmanfm (argument)
+=x11-misc/pcmanfm-1.3.2-r1 ~amd64
+# required by x11-misc/pcmanfm-1.3.2-r1::gentoo
+# required by pcmanfm (argument)
+=x11-libs/libfm-1.3.2-r1 ~amd64
+# required by x11-themes/sweet-dark-gtk-theme (argument)
+=x11-themes/sweet-dark-gtk-theme-3.0 ~amd64
+# required by x11-themes/sweet-folders-icon-theme (argument)
+=x11-themes/sweet-folders-icon-theme-0_pre20200227 ~amd64
+# required by 7zip (argument)
+=app-arch/7zip-23.01 ~amd64
+# required by dev-util/github-cli (argument)
+=dev-util/github-cli-2.42.0 ~amd64
+# required by app-shells/thefuck (argument)
+=app-shells/thefuck-3.32-r1 ~amd64
+# required by net-im/discordo (argument)
+=net-im/discordo-0_pre20240425 ~amd64
+# required by games-action/supertuxkart-1.4-r1::gentoo
+# required by supertuxkart (argument)
+=dev-libs/angelscript-2.36.1 ~amd64
+# required by supertuxkart (argument)
+=games-action/supertuxkart-1.4-r1 ~amd64
